@@ -12,3 +12,4 @@ npx srnightmare09
 ```
 
 ## Preview
+<img src = "https://github.com/SrNightmare09/npm-srnightmare09/blob/master/preview.png?raw=true">
