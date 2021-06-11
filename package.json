@@ -1,0 +1,19 @@
+{
+  "name": "srnightmare09",
+  "version": "1.0.0",
+  "description": "<h1 align = center>npm-srnightmare09</h1> <h3 align = center>This is a repository for my package, <samp>srnightmare09</samp>. This package is made for you to know be better. You will get a lot of information - who I am, my skillsets, how you can contact me, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrNightmare09/npm-srnightmare09.git"
+  },
+  "author": "SrNightmare09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrNightmare09/npm-srnightmare09/issues"
+  },
+  "homepage": "https://github.com/SrNightmare09/npm-srnightmare09#readme"
+}
