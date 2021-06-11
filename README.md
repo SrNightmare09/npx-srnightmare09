@@ -13,3 +13,9 @@ npx srnightmare09
 
 ## Preview
 <img src = "https://github.com/SrNightmare09/npm-srnightmare09/blob/master/preview.png?raw=true">
+  
+## Contributing
+Issues and pull requests are accepted with open arms, make sure to head to CONTRIBUTING to learn more.
+  
+## License
+SrNightmare09 @ MIT
