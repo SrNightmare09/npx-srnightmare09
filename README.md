@@ -3,7 +3,7 @@
 
 <hr>
   
-## How to view my profile
+<h2> How to view my profile
 For you to be able to view my card you will need nodejs to be installed in your device. Click here to <a href = https://nodejs.org>install</a> it.
 
 If you have node installed, simply run the following command in your terminal - 
