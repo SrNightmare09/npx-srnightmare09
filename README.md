@@ -18,4 +18,4 @@ npx srnightmare09
 Issues and pull requests are accepted with open arms, make sure to head to CONTRIBUTING to learn more.
   
 ## License
-MIT © SrNightmare09
+<a href = https://github.com/SrNightmare09/npm-srnightmare09/blob/master/LICENSE>MIT</a> © SrNightmare09
