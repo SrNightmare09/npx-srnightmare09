@@ -18,4 +18,4 @@ npx srnightmare09
 Issues and pull requests are accepted with open arms, make sure to head to CONTRIBUTING to learn more.
   
 ## License
-SrNightmare09 @ MIT
+MIT © SrNightmare09
