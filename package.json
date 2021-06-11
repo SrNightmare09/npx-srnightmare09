@@ -13,6 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/SrNightmare09/npm-srnightmare09.git"
   },
+  "keywords": [
+    "npm",
+    "npx",
+    "node",
+    "javascript",
+    "npx card"
+  ],
   "author": "SrNightmare09",
   "license": "ISC",
   "bugs": {
