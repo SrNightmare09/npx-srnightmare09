@@ -151,3 +151,11 @@ node_modules/wrap-ansi/node_modules/strip-ansi/index.d.ts
 node_modules/wrap-ansi/node_modules/strip-ansi/index.js
 node_modules/wrap-ansi/node_modules/strip-ansi/package.json
 node_modules/wrap-ansi/node_modules/strip-ansi/readme.md
+node_modules/electron-to-chromium/CHANGELOG.md
+node_modules/electron-to-chromium/chromium-versions.js
+node_modules/electron-to-chromium/full-chromium-versions.js
+node_modules/electron-to-chromium/full-versions.js
+node_modules/electron-to-chromium/index.js
+node_modules/electron-to-chromium/package.json
+node_modules/electron-to-chromium/README.md
+node_modules/electron-to-chromium/versions.js
