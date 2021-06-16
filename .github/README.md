@@ -12,7 +12,7 @@ npx srnightmare09
 ```
 
 ## Preview
-<img src = "https://github.com/SrNightmare09/npm-srnightmare09/blob/master/preview.png?raw=true">
+<img src = "../images/preview.png">
   
 ## Contributing
 Issues and pull requests are accepted with open arms, make sure to head to <a href = CONTRIBUTING.md>CONTRIBUTING</a> to learn more.
