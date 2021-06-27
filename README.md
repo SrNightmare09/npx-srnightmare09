@@ -12,7 +12,7 @@ npx srnightmare09
 ```
 
 ## Preview
-<img src = "../images/preview.png">
+<img src = "images/preview.png">
   
 ## Contributing
 Issues and pull requests are accepted with open arms, make sure to head to <a href = CONTRIBUTING.md>CONTRIBUTING</a> to learn more.
