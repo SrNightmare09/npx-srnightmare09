@@ -4,36 +4,9 @@
 
 const boxen = require("boxen");
 const chalk = require("chalk");
-const inquirer = require("inquirer");
 const clear = require("clear");
-const open = require("open");
 
 clear();
-
-const prompt = inquirer.createPromptModule();
-
-const questions = [
-  {
-    type: "list",
-    name: "action",
-    message: "What do you want to do?",
-    choices: [
-      {
-        name: `Contact me through ${chalk.green.bold("email")}?`,
-        value: () => {
-          open("mailto:srnightmare09@gmail.com");
-          console.log("\nDone, see you soon.\n");
-        }
-      },
-      {
-        name: "Just quit.",
-        value: () => {
-          console.log("Bye, enjoy your day :).\n");
-        }
-      }
-    ]
-  }
-];
 
 const data = {
   name: chalk.bold.green("        SrNightmare09"),
@@ -84,6 +57,3 @@ const tip = [
   '',
 ].join("\n");
 console.log(tip);
-
-
-prompt(questions).then(answer => answer.action());
