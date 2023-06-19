@@ -1,4 +1,4 @@
-<h1 align = center>npm-srnightmare09</h1>
+<h1 align = center>npx srnightmare09</h1>
 <h3 align = center>This is a repository for my package, <samp><a href = https://www.npmjs.com/package/srnightmare09>srnightmare09</a></samp>. This package is made for you to know be better. You will get a lot of information - who I am, my skillsets, how you can contact me, etc. 
 
 <hr>
