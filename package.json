@@ -46,9 +46,7 @@
     "boxen": "^4.2.0",
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
-    "electron-to-chromium": "^1.3.752",
-    "inquirer": "^7.3.2",
-    "open": "^7.0.4"
+    "electron-to-chromium": "^1.3.752"
   },
   "engines": {
     "node": ">=10",
